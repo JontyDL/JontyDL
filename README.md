@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Jonty</h1>
+<h1 align="center">Hello! I'm Jonty :D</h1>
 <h3 align="center">I'm a passionate Game Developer and Programmer, currently in South Africa!</h3>
 <p align="center">(if you catch me at Makers Massive, Africa Games Week or Playtopia, say hi!)
 
