@@ -4,8 +4,9 @@
 
 
 
-<h4>While alot of my work sits in private repo's, this is what my github activity actually looks like (as of Oct. 19th):
-  <img width="916" height="175" alt="image" src="https://github.com/user-attachments/assets/b5dd217d-7f40-4afa-baaf-8a3e28b76b19" /> </h4>
+<h4>While alot of my work sits in private repo's, this is what my github activity actually looks like (as of Nov. 6th):
+  <img width="762" height="207" alt="GithubHistory" src="https://github.com/user-attachments/assets/3930c1a9-0211-4abd-bada-3a4fddd24ea8" />
+
 
 - 📫 My Linktree: **linktr.ee/JontyDev**
 
